@@ -1,7 +1,7 @@
 # 🎓 Plataforma Interativa de Apoio à Educação Infantil
 
 ## 📌 Visão Geral
-A **Plataforma Interativa de Apoio à Educação Infantil** tem como objetivo proporcionar um aprendizado **lúdico, interativo e inclusivo** para crianças de 3 a 6 anos.
+A **Plataforma Interativa de Apoio à Educação Infantil** tem como objetivo proporcionar um aprendizado **lúdico, interativo e inclusivo** para crianças de 7 a 12 anos.
 O sistema permitirá que **pais, professores e especialistas** acompanhem o progresso da criança, enquanto atividades educativas e jogos interativos estimulam o desenvolvimento cognitivo e socioemocional.
 
 ## 🚀 Funcionalidades Principais
