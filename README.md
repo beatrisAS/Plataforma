@@ -76,7 +76,7 @@ npm run dev
 ## 👥 Equipe
 - **Scrum Master:** Beatris Antunes Silva  
 - **Product Owner:** Francisco José Marcon Médicci  
-- **Desenvolvedores:** Matheus Nicolau Buriti, Gabriel Moreno Valverde, Bruna Rodrigues Albuquerque, Camila Barbosa Andrade  
+- **Desenvolvedores:** Matheus Nicolau Buriti, Bruna Rodrigues Albuquerque, Camila Barbosa Andrade  
 
 ## 📜 Licença
 Projeto acadêmico — uso livre para fins educacionais.
