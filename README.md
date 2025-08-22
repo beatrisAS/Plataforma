@@ -2,14 +2,13 @@
 
 ## 📌 Visão Geral
 A **Plataforma Interativa de Apoio à Educação Infantil** tem como objetivo proporcionar um aprendizado **lúdico, interativo e inclusivo** para crianças de 7 a 12 anos.
-O sistema permitirá que **pais, professores e especialistas** acompanhem o progresso da criança, enquanto atividades educativas e jogos interativos estimulam o desenvolvimento cognitivo e socioemocional.
+O sistema permitirá que **pais e professores** acompanhem o progresso da criança, enquanto atividades educativas e jogos interativos estimulam o desenvolvimento cognitivo e socioemocional.
 
 ## 🚀 Funcionalidades Principais
-- 👤 Cadastro de usuários (pais, responsáveis, professores, especialistas).
+- 👤 Cadastro de usuários (pais, responsáveis, professores).
 - 👶 Cadastro de crianças vinculadas a perfis de aprendizado.
 - 🎮 Atividades pedagógicas interativas segmentadas por faixa etária.
 - 📊 Relatórios e gráficos de desempenho das crianças.
-- 💬 Comentários e recomendações por especialistas.
 - 🔔 Notificações automáticas para pais e responsáveis.
 - 🔐 Segurança e privacidade conforme a LGPD.
 
